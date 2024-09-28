@@ -1,0 +1,12 @@
+.Header{
+    width: 100%;
+    height: 50px;
+    background-color: brown;
+}
+
+.title{
+    font-weight: bold;
+    font-size:25px;
+    color: fuchsia;
+    padding-top:15px;
+}
